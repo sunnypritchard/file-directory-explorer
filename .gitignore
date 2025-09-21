@@ -1,0 +1,25 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# Flask instance folder
+instance/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+
+# Test files
+.pytest_cache/
+tests/__pycache__/
+tests/*.pyc
